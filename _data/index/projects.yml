@@ -1,0 +1,11 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Deep Learning
+  i18n: dplearn
+  gh_user: spraphul
+  repo: Detection-of-Indian-Cars-with-brand-and-model
+  img: /static/assets/img/landing/jekyll.png
+  desc: 
+
+- 
