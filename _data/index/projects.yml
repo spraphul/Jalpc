@@ -8,18 +8,18 @@
   img: /static/assets/img/landing/dl.jpg
   desc: 
   
-  name: EMG to Speech Converter
+- name: EMG to Speech Converter
   i18n: dplearn
   gh_user: spraphul
   repo: Emg-to-Speech-Converter
   img: /static/assets/img/landing/dl.jpg
   desc: 
   
-  name: Hand Gesture Recognition
+- name: Hand Gesture Recognition
   i18n: dplearn
   gh_user: spraphul
   repo: Hand_Gesture_Recognition
   img: /static/assets/img/landing/dl.jpg
   desc: 
 
-- 
+
