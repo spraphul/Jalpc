@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Praphul Singh  # Be used at blog posts' author.
   first_name: Praphul # Be used at index page about me section.
   last_name: Singh  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/dp.jpg  # upload your avatar at directory and edit it.
   github_username: spraphul  # Leave blank if you don't have now
   linkedin_id: spraphul555 # Leave blank if you don't have now
   facebook_username: praphul.singh.92  # Leave blank if you don't have now
