@@ -1,18 +1,18 @@
 # links section data
-- last_name: Singh
-  first_name: Praphul
+- last_name: website
+  first_name: 
   desc: Student
   website: https://spraphul.github.io/home
   email: praphulsingh1996@gmail.com
 
-- #last_name: D
-  #first_name: Jalpc
-  #desc: Support Jalpc
-  #website: http://www.jarrekk.com/donate/
-  #email: me@jarrekk.com
+- last_name: facebook
+  first_name: 
+  desc: 
+  website: http://www.facebook.com/praphul.singh.92
+  email: me@jarrekk.com
 
-- last_name: Singh
-  first_name: Praphul
+- last_name: github
+  first_name: 
   desc: 
   website: https://github.com/spraphul
   email: praphulsingh1996@gmail.com
