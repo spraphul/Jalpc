@@ -1,39 +1,337 @@
 ---
 layout: post
-title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-date:   2017-01-31
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [Jalpc,Jekyll]
-icon: icon-html
+title:  "3 Years in Kanpur"
+date:   2017-11-06
+desc: 
+keywords: ""
+categories: [Bio]
+tags: []
+icon: 
 ---
 
-Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.
+Hey guys, Its Praphul. Are you a Kanpurite? If Yes, You are at right site. I remained a student of class XI and XII from
+C.B.S.E board in Kanpur in Guru Nanak Public School. I also prepared there
+for IIT JEE in Kakadeo and I want to keep the
+memories of these three years ever alive. The
+memories which perhaps can never be regained. The friends, the teachers, the
+hostels and the city(What a enjoyous and lovely life it was!). Here, I understood what life really means. I learnt here to learn practically and
+in true words I am not gonna let them go from my life...
 
-So, if you like this website <https://jarrekk.github.io/Jalpc/> or <http://www.jarrekk.com> and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website(make sure you have basic knowledge of [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), if you want to custom css/js [NPM](https://github.com/npm/npm) is needed):
+The second reason for this long blog is to make the students of kanpur
+realise what one needs to do when there is a dream to fulfill and how it feels
+when things do not happen to your expectations.
 
-1. Fork [this project -- Jalpc](https://github.com/jarrekk/Jalpc) at [GitHub](https://github.com). If you want to edit website at github, do it as following gif or clone forked repository. `git clone git@github.com:github_username/Jalpc.git`.
+So, finally wasting no more lines and dedicating those to my Parents, my
+brother, my teachers, and some of my best friends
+Deepak, Dhanraj, Dilip,Gaurav(Puri), Utkarsh,Sajal, kushagra, Manish
+Bhaia, Krishna bhaia , Dharmveer and many more, here we go...
 
-	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
+### First Step In The City
+It was 15th of May 2012 when after saying a bitter good bye to my family in a small
+town Nichlaul, I left for Kanpur all alone with
+nothing in my hand but just a bag having some clothes piled inside and of
+course an ATM card too.I arrived Kanpur central(CNB) at 11 in the night.
+Took an auto and reached Rawatpur Crossing where my friend Alok
+Mishra received me and then we walked off to his hostel. In the way, I saw a
+large shining building with brightening posters on it and then came to know that
+it was Rave Moti, a shopping mall and this was the first time I was introduced
+to the kind of world. In fact, it was the first time I entered a hostel room whose
+owner was so weird that I couldn't handle him too far. Mishra Ji was from
+Nichlaul too and was there to prepare for the famous IIT JEE. I was really
+very confused about where to take admission for coachings and all. Kakadeo, a well-known market for coachings (called coaching mandi in hindi)
+and was a hard place to trust upon. I stayed there for 3 days roaming around
+the streets, visiting JK temple which was a like a lover’s
+point rather than a temple and perphaps it was so because it was the temple
+of Lord Krishna(You Know what I mean), visiting the air conditioned mall(first time bro). And then
+finally I told Mishra Ji to take me to his Physics Class, QUARK(Notice the name). I went there, It was a very small insti and I was very much decisive
+at the moment. There, I met Mr. Anant Agnihotri, My Physics Guru to
+whom I darely asked, “ Sir, Please tell me whether Physics of school level or
+IIT JEE level is tought here?”
+He smiled as he understood my situation and the doubtful expression on my
+face. He said, “Dear, First you should take one or more classes and then
+decide. Afterall we start from the basics and then eventually reach the real
+height of IIT JEE.”
+From the next day, I started my first class of Mechanics and was pleased I was at the right place. But still the task was not over and it was time to choose a teacher for Mathematics and Chemistry. I
+was told to join the coaching of M. Sahvan for maths and G.D Verma for
+Chemistry. When I entered the classroom for maths and was just startled
+seeing the environment there. I was from a small town and there in Kanpur
+the classes were centrally air-conditioned, students seemed to be very
+smart. In the class, the teacher asked the students whether the results of class Xth of
+C.B.S.E board has come or not. The answer was positive. Almost 50%
+students got 10 CGPA and a very few like me were in the crowd getting 9
+CGPA. I thought that the competition is really going to be very tough here.
+After taking the class, I finally decided to take admission in the foundation
+batch(just name). I called my Father and asked him to come with all the goods. The next
+day I searched out for a room and after a long struggle in the sunny day, I
+managed to get one and My Father and brother were there by the
+evening. Father met Anant sir and said me, “We have great hopes from you.”(very little did he say)
+And then returned.
+Now the time was to take admission in school. I wanted a school where
+attendance was not a mandatory stuff.
+But searching for such a school with vacant seats really proved to be a tough deal in the new city. I went for many schools like Virendra swaroop,
+M.P.E.C, Jugaldevi, KVs, and Puranchand  but not a single one was there
+with a vacant seat.
+I also went to Sir Padampat Singhania School. It was a nice school just
+behind the famous JK temple and was a dummy one too but all my hopes
+washed away when I heard the amount of fees required for the admission. For
+many of you the amount would be acceptable but not for a boy like me from a middle-class family. It
+literally burnt a hole in my Pocket.
+I was really very worried those days and one day I met a boy, Deepak
+Gangwani in the Chemistry class. He looked like a ***champu*** but now-a-days(to my surprise) he has become a handsome hunk with
+so many girls around him. He sat besides me and asked, “ how much did you
+get in the test?”
 
-2. Enter into repository directory and edit following file list:
+“56/96”, I said.
+“OK, Mine is 66”, he said (don’t know why, a show off kinda thing). He annoyed me at that moment as I was in a bad situation of fear of not
+getting admission in a school.
+But this guy proved to be a great friend of mine. I had no friend with such
+loyalty before.
+Then he proceeded and asked about me and knowing that I was an outsider
+and was seeking for admission in class XI, he asked me to give the entrance
+in Guru Nanak Public school with him.
+Then in the next class, I met another idiot, Gaurav Puri. He was though a
+miser one but great at heart.
+We became friends and afterward he told me that GNPS is a missionary
+school but attendance is compulsory there. But I had no choice. Then with no
+delay I along with Deepak and my brother took admission there.
 
-	* **_config.yml**: edit 'Website settings', 'author', 'comment' and 'analytics' items.
+### First day at school
 
-	* **_data/landing.yml**: custom sections of index page.
+My first day at school was also quite interesting because it was the day when I
+met some people who are more like brothers to me now and some who
+played the role of bones in the flesh for me too.
 
-	* **_data/index/**: edit sections' data to yours at index page, please notice comment at each file.
+We had initially no school dress and we all got white dresses and entered the
+school. Students were staring us like we were some kind of corpses in the
+crowd of livings .Their boggalled eyes were confusing us a lot but we put on
+our own way.
+In every 45 minutes a new teacher was coming and we were introduced with
+their unique styles. But the most interesting entry was of my English Teacher,
+Shakti Ma’am.  As the name suggests she had great power in her hand too and
+that I got to know after some days. She entered the class and shouted
+loudly, “ Listen everyone, as the classes are being held since the month of
+April and many chapters have been taught, so I am not going to repeat them
+all.”
+Her rudeness thrilled me, I don’t know about others. But a contrasting fact is
+that she was impressed by me the most. And I obviously had no problem. Afterall she
+was not an old lady. Yeah she did a lot for me too as she used to give me full marks
+in vivas even if I didn’t attend any and much more.
 
-	* **_data/blog.yml**: edit navbar(categories) of blog page, if you have different/more blog page, copy `blog/python.html` and change it to your category HTML file, and edit **Python**, **/python/** to your category name at items **title** and **permalink**, make sure title is the same as permalink but capitalized first letter(except HTML).
+I used to go school alternately and almost everytime gave the same reason for
+the absence. My class teacher whom I hated the most in XI understood my
+evils completely and after that everyday I went school, I was punished and
+was kept outside the class for the first two periods.
+Eventually I also started enjoying the free periods. Now in the first unit test,
+I got merely 50% marks which was out of the range of my imaginations. For
+the first year , I had no attachment for the school, I swear.
 
-	* **CNAME**: If you wanna release website at your own domain name: edit it and create `gh-pages` branch; if you want to use *github_username.github.io*: leave it blank.
+### Greed for chocolate
 
-	* Go to repo's settings panel, config **GitHub Pages** section to make sure website is released.
+A new chapter then began in my chemistry class, Mole Concept. For it we
+had to wait for one boring month of Nomenclature.
+Respected GD Verma(***Sarcasm***) sir organised a class test in which I with my friend
+stood first with 80/80 score and then I came to know the rule of the class
+that our teacher gave chocolates to the first five rank holders.
 
-3. Push changes to your github repository and view your website, done!
+I also got a Cadbury. But this was a small offer before the one Sahvan sir
+gave us. He organised a test and announced a prize money of Rs 500 for the
+first ranker. But sadly I could not manage to get it and remained very behind.
+Everything was happening beyond my expectations which was trying to
+demoralize me but I took faith in me and encouraged myself for the next
+challenge.
 
-From now on, you can post your blog to this website by creating md files at `post/` directory and push it to GitHub, you can clear files at this directory before you post blogs.
+The most interesting subjects for me were Maths and Physics. I had no
+interest for chemistry initially in class XI. But even though for chocolates I
+managed to get into the first five ranks.
 
-If you like this repository, I appreciate you star this repository. Please don't hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊
+
+### Choose one, “ FRIEND OR TARGET”
+
+I met another friend Utkarsh Katiyar this time in maths class. He was a
+talented boy and now he is in NDA and surely after somedays, he
+will be at some good post serving the country.
+We were very good friends but an incident
+brought too much sourness in our friendship.
+Actually Sahvan Sir took a series of three tests on Calculus in which he
+offered us that the first five rankers will get a chance to go with him on a
+treat to Landmark(a five star HOTEL) and on a trip to IIT Kanpur. We were very excited and prepared hardly
+for the test but I stood fifth  and was really very disappointed by the
+result.
+I was very sad and stopped talking to anyone, even Utkarsh and Deepak who
+respectively got third and fourth positions.
+Utkarsh mistook my intention and thought that perhaps by his third rank I
+was not happy and was not talking to him and he even put this matter to me.
+Listening this I smiled and hugged them and told them that I had no problem
+with their good ranks but I was depressed of my bad one.
+Anyway after somedays Sahvan sir put another proposal to the four boys
+Sajal, Kushagra,Utkarsh and Deepak to stay there in the hostel which was a part of the insti so that he can give personal attention to them.
+To this Sajal and Kushagra refused on the spot but Utkarsh and Deepak said
+a yes to him. I was not still into the topic as I was a kind of boy who mostly
+stayed out of these talks and was related to the teacher only for questions of
+maths and nothing else.
+Then Utkarsh put my name before Sahvan Sir who didn't  recognise me initially.
+He called me and asked me about the proposal to which I was not sure but
+asked him for some time as I wanted to discuss the matter with my parents.
+They agreed and Utkarsh took me to his home to convince his parents.
+They agreed too. Utkarsh and Deepak shifted to the hostel and then I came to
+know that I was required to leave the physics and chemistry classes and do self study only. As self study is a good thing but I still had
+not completed the full syllabus of IIT JEE and for that I required the
+assistance of the teachers. Now that was a great decisive moment for me as
+my study and friendship were at stake.
+Then I talked to Anant sir about the matter to which he strictly suggested me
+not to leave the classes.
+Then I said with hard words a “no” to my friends.
+
+After this Utkarsh stopped talking to me and Deepak was still a great friend
+for me.
+But I thought that I will somehow manage to convince him and moved
+forward concentrating on my target.
+
+### Determination to grab something
+
+Now let me tell you about my physics classes.It was the lecture of mechanics in
+which sir put a problem before us in the class and said that the one who solves it
+in three minutes will get a hundred rupee note. Our heartbeat grew faster and my
+whole body sweated up in that air-conditioned room(I wanted the note for a treat).
+When the time started , our pen ran like storm and we lost our connection
+from the world and the question only was my world at that time. When the
+time was up, three students were there raising their
+hands(me, Dhanraj and Sajal). Everyone told their answer and methods to sir
+and finally I was there with the right answer and this time I felt that I can be something special(to me, my parents and my teachers). Infact every person has some face he/she has not seen.
+Then in every test I tried my best and despite of getting second or third rank
+I was happy and always tried to be first.
+This desire of me was also fulfilled in the test of Fluid mechanics in which I
+scored 100/140 and stood first.
+I started clearing my concepts from the book of H.C verma (concepts of
+physics) in class XI. On the day I bunked school spent 5-7 hours on Physics
+only and rarely gave time to chemistry.
+
+### Don’t be partial, be perfect
+
+I was taught that if you are good at two subjects you will get selected but to
+get a good rank you need to be perfect in all the three subjects.
+As I have told before that chemistry was not a subject of interest for me.
+Sometimes I feared that I probably will not get selected due to this subject.
+My physics teacher suggested me to join the classes of Pankaj Sir.
+As it was my weak point I was strongly desperate to master the subject and
+took admission there in class XII.
+Two teachers were there, Pankaj Sir and Nirmal Sir. They taught so well that
+after one year I was having a real confidence in the subject.
+
+### The combination of management with labour leads you to success...
+
+Now the results of class XI were out and fortunately I stood first. That day
+the chemistry teacher in my school who punished me the whole year came to
+me and said, “ Mr. Praphul Singh, I don’t care whether you come school or not but
+one thing I need from you is the result.”
+I was just surprised and had no words to say then. Now this was the time for
+real challenge. In this year we had to manage the boards and the JEE
+as well. In this year I met a new student Dhanraj Naikwade. He was a brilliant
+student and a nice guy too. We became good friends and later on I shifted in
+his hostel in R.S Puram. He was very cooperative and was like a
+brother to me.
+It seems funny to remember that I lost his bicycle once and he gave a
+sad smile and was trying to hide those tears as the
+cycle was given to him by his father on his birthday and made me emotional
+too at the moment. I used to enjoy a lot when he talked his family on phone
+in Marathi. His chemistry ,specially organic was very good. In the class we sat
+together, discussed a lot and this really helped me a lot to improve the subject(Chemistry).
+We sat and studied late till 4 or 5 in the morning. It became an emotional
+moment for me when he was leaving the hostel but there were lots of tasks for me to do.
+My brother Prashant Singh played the most crucial role in my study. He in
+every step chided me , criticised me a lot and encouraged me to the height he
+can. He didn’t let me do any other work. He used to wash all my clothes and
+every morning brought breakfast for me.
+In the new hostel, I was happy to see the studious environment. Manish
+Bhaia, my brother like batchmate discussed a lot with me.
+Now in class XII, I started becoming topper in many of the exams of Physics
+and maths. But still I was not able to perform that much in chemistry. In
+class XII, my friendship with Sajal and Kushagra ripened. We became good
+friends. Sajal and I used to ask a lot of challenging questions to each other
+which was a good contribution to our research work in Physics, Chemistry
+and Maths.
+In the new hostel, I met two more personalities Krishna Bhaia and his
+younger brother Anoop. The latter was preparing for the same exam. He
+used to keep a lot of books of great authors like A.M Agarwal, S.k Goyal,
+Cengage learning, D.C Pandey and much more. Here I changed the trend of
+my preparation and started focusing on books apart from the assignments.
+In the hostel, I was the youngest one and every one treated me like a younger
+brother and created no disturbance to my studies. Manish bhaia who was
+studying in the same batch used to discuss a lot of problems daily with me.
+In the school too, now I was not tortured for the attendance and I therefore
+merely attended the school that year.
+My performance became better in maths and physics and even in chemistry
+but in this subject I was not getting the real confidence. From march 1 my
+boards started and exactly for the next 24 days I focused totally on the boards and in
+this Manish Bhaia also helped me a lot as he himself was a board topper and
+guided me and I did all that smartly.
+On 24th march boards were over and now, I had 10 days left for the JEE
+Mains. My brother went to Aligarh so that I could focus totally on my
+studies. I in a very well designed manner prepared for the exam. The
+environment at examination centre was pressurising. More than 500 students
+were there. The exam started at 9:30 am. I was very nervous and when the
+paper came in my hands my hands were trembling. Sweat, sweat and sweat
+was all there.
+The first section was Maths. The first question was of quadratic equation and
+although it was an easy question, I was not getting the answer. I wasted my 4
+minutes. My heart beat rose and I was not confident enough to solve the rest
+89 questions. Then I recalled the advice my teacher that I was required to
+attempt chemistry first. So did I then.
+In 30-35 minutes, I managed to solve the chemistry section. Now I picked up
+the physics and then mathematics section and the question I left in the first
+attempt there was solved so easily that I can’t tell you.
+And finally I managed to make the exam at right time. I did too many silly
+mistakes. So the result was not satisfying but a descent one and I got 250/360
+in mains. I prepared for the advanced exam and was in a good flow and
+finally the day came on 25th of May. In Paper I, I did well but was not that
+confident. I really had very less control over chemistry which troubled me a
+lot. Somehow my strengths of physics and maths took me to the miles and at
+5:00 pm it was all over. Things were disappointing me a lot. When the result
+was out I got AIR 7720 and was totally broken up. I secretly cried a lot. It
+was like my heart has been taken and for somedays I was like a person with
+no motive, no aim, no destination to reach. I disappointed my parents and
+my teachers.
+I left the hostel and returned home. My parents advised me to take part in
+counselling but I didn’t as I knew a general rank of 7720 was not going to
+give me a college like IIT Kanpur. My physics teacher phoned me and his
+words were to me were- “ Praphul, you are born to do something great for
+your parents so don’t just give up and fight again.”
+
+And finally after I month I decided to give one more try. I joined the
+chemistry classes and decided to prepare the rest by my own.
+By the time I had realised my drawbacks which were hidden behind my
+strengths. My efficiency and speed was great but my accuracy was not good
+enough. I practised a lot but analysed very less.
+Instead of staying in a hostel, I took a portion of two rooms in a house on
+rent and stayed there with three boys who were my close friends. Again I
+started practising a lot and the extent gets cleared from the data that in 1
+month I solved more than 10,000 problems.
+Then Anant sir told me to get some subjective approach and then I started
+solving subjective problems from books like Cengage Learning, S.K Goyal,
+A.M Agarwal, Abhay Singh and also took the so called DLPs of Bansal
+Classes.
+To improve my accuracy I took the test series of Bansal Classes, Resonance
+Classes and Utkarsh Gail Super 100. I was feeling the improvement through
+the scores in the test series. Now my competition was not limited to the mere
+2-3 thousand students while it included the students from all over India.
+I started becoming more and more ambitious and pulled myself to AIR 7 in
+the test series. I stood fifth in physics once and many precious ranks were
+there. The chemistry which feared me a lot the previous year became as
+strong as maths. Now I was not expecting anything but just wanted to grab
+as much as I can. It was not that I studied like 14-15 hours a day instead I
+just gave 7-8 hours daily but honestly. I skipped all the topics that were
+exclusively for mains and focused on the topics of advanced only.
+So this time I scored 270 in mains and was pretty sure of getting a good rank
+in advance. But life doesn’t always pay you your expectations and so it did to
+me. I got AIR 555 and not under 200 which I expected but this was a
+beautiful and special rank for me and I was happy with the three 5s.
+So finally the ink on the 100 thick rough copies showed me its colour and my
+dream had now become reality.
+
+The ‘3 years in Kanpur’, a collection of some unforgettable memories and
+some words and examples for students like me is this much. This period of
+time gave me many examples which can defeat you, let you break, let you cry,
+make you stand and make you successful. Hope you read and enjoy it.
+
+### Praphul Singh(IIT Kanpur)
+
