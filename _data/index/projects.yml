@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Word Sense Disambiguation
   i18n: dplearn
-  gh_user: spraphul
-  repo: Sshanu/Word-Sense-Disambiguation
+  gh_user: Sshanu
+  repo: Word-Sense-Disambiguation
   img: /static/assets/img/landing/dl.jpg
   desc: 
   
