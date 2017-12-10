@@ -1,7 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Deep Learning
+- name: Word Sense Disambiguation
+  i18n: dplearn
+  gh_user: spraphul
+  repo: Sshanu/Word-Sense-Disambiguation
+  img: /static/assets/img/landing/dl.jpg
+  desc: 
+  
+
+
+- name: Car Model Detection
   i18n: dplearn
   gh_user: spraphul
   repo: Detection-of-Indian-Cars-with-brand-and-model
