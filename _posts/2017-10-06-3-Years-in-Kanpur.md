@@ -11,7 +11,7 @@ icon:
 
 Hey guys, Its Praphul. Are you a Kanpurite? If Yes, I wanted you to catch the page. I remained a student of class XI and XII from
 C.B.S.E board in Kanpur. I also prepared there
-for IIT JEE in Kakadeo and. Those three years gave me a collection of some precious memories. The
+for IIT JEE in Kakadeo. Those three years gave me a collection of some precious memories. The
 memories which perhaps can never be regained. The friends, the teachers, the
 hostels and the city(What a life it was!). Here, I found what life really means. I learnt here to live practically and
 in true words I am not gonna let them fly away from my life.
