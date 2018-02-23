@@ -18,7 +18,7 @@ in true words I am not gonna let them fly away from my life.
 
 The second reason for this long blog is to make the students of Kanpur
 realise what one needs to do when there is a dream to fulfill and how it feels
-when things do not happen to your expectations.
+when things do not happen to your expectations. And buddy! Kanpur is not like KOTA. It has its different style. You will struggle a lot if you are an outsider and has no one to guide you. I was an outsider, I had no one to guide, and I struggled too. Hope the story ahead helps!! 
 
 So, finally wasting no more lines and dedicating those to my Parents, my
 brother, my teachers, and my friends
