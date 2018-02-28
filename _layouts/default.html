@@ -17,14 +17,17 @@ layout: compress
 
     {% if page.title != 'index' %}
         {% include blog_header.html %}
+        {% seo %}
     {% endif %}
 
     {{ content }}
 
     {% if page.title != 'index' %}
         {% include foot.html %}
+        {% seo %}
     {% else %}
         {% include index_foot.html %}
+        {% seo %}
     {% endif %}
 
 </body>
