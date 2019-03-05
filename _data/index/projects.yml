@@ -7,6 +7,13 @@
   repo: Abstractive-Text-Summarization
   img: /static/assets/img/landing/dl.jpg
   desc:
+  
+- name: Coarse and Fine Classification
+  i18n: dplearn
+  gh_user: spraphul
+  repo: Coarse-and-Fine-grained-classification
+  img: /static/assets/img/landing/dl.jpg
+  desc:
 
 
 
