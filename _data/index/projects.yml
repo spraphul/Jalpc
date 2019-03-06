@@ -1,6 +1,13 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: 3D Image Construction from 2D Images 
+  i18n: dplearn
+  gh_user: spraphul
+  repo: 3D-Image-Construction-from-2D-images-
+  img: /static/assets/img/landing/dl.jpg
+  desc:
+  
 - name: Abstractive Text Summarization
   i18n: dplearn
   gh_user: spraphul
