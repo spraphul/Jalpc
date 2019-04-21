@@ -1,6 +1,20 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Unsupervised Image Segmentation
+  i18n: dplearn
+  gh_user: spraphul
+  repo: Unsupervised-Image-Segmentation
+  img: /static/assets/img/landing/dl.jpg
+  desc:
+
+- name: Object Detection
+  i18n: dplearn
+  gh_user: spraphul
+  repo: Object-Detection-using-Resnet18-
+  img: /static/assets/img/landing/dl.jpg
+  desc:
+  
 - name: 3D Image Construction from 2D Images 
   i18n: dplearn
   gh_user: spraphul
