@@ -1,10 +1,24 @@
 # careers section data
-# if you don't have language feature(language.yml is empty), ignore "i18n" items
+# if you don't have language feature(language.yml is empty), ignore "i18n" 
+- name:
+    detail: Oracle Corporation
+    i18n: company_a
+  desc:
+    detail: Member of Technical Staff
+    i18n: company_a_desc
+  date:
+    detail: June 2019 - Present
+    i18n: company_a_date
+  job:
+    detail: Employee
+    i18n: company_a_job
+  icon: fa-plus-square
+  
 - name:
     detail: IIT Kanpur
     i18n: company_a
   desc:
-    detail: 3rd year Undergraduate
+    detail: B.Tech
     i18n: company_a_desc
   date:
     detail: August 2015 - Present
