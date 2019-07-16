@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi !  I am an Electrical Engineering undergrad at IIT Kanpur.  # Describe yourself.
+  desc: Hi! I graduated from Indian Institute of Technology, Kanpur with a major in Electrical Engineering in 2019. I am currently working as a software development Engineer at Oracle, Bangalore. I have explored the fields of Machine Learning and Deep Learning with various projects covering the major portions of Natural Language Processing and Computer Vision. Being at Oracle, I am exploring the field of solving tech problems using the knowledge of Artificial Intelligence, IOT, Machine Learning, Blockchains etc. 
 
 # comment 
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
