@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Cricket, C++, Algorithms, Machine Learning, Python, Music, Probability
-percentage: 70, 80, 80, 80, 85, 85, 80, 90
+aspects: GitHub, Cricket, C++, Algorithms, Machine Learning, Python, Music, Probability, SQL Server, Unix
+percentage: 70, 95, 90, 90, 90, 85, 80, 90, 70, 80
