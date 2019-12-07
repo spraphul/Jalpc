@@ -1,19 +1,19 @@
 # links section data
-- last_name: website
-  first_name: 
-  desc: Student
-  website: https://spraphul.github.io/home
-  email: praphulsingh1996@gmail.com
-
-- last_name: facebook
+- last_name: Blog
   first_name: 
   desc: 
-  website: http://www.facebook.com/praphul.singh.92
-  email: me@jarrekk.com
+  website: https://www.spraphul.github.io/blog
+  email: praphulsingh1996@gmail.com
+
+- last_name: Linkedin
+  first_name: 
+  desc: 
+  website: https://www.linkedin.com/in/spraphul555/
+  email: 
 
 - last_name: github
   first_name: 
   desc: 
   website: https://github.com/spraphul
-  email: praphulsingh1996@gmail.com
+  email:
 
