@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Praphul Singh EE IITK
+title: Praphul Singh
 description: Homepage of Praphul 
 keywords: Homepage,Praphul Singh,EE,IITK,github,spraphul
 baseurl: # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: praphul.singh.92  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: praphulsingh1996@gmail.com # Leave blank if you don't have now
-  cv: https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5db26ca2-4119-450a-9fa8-780cbf31a228 # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://adobefreeuserschannel.in1.documents.adobe.com/public/fs?aid=CBFCIBAA3AAABLblqZhBb1RiwWXe1HKXkLad_gmnV8283FKOI1eWCUPCpck7kXg0qTtZ2p5jUvW99E0m7Nho%2A, # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
